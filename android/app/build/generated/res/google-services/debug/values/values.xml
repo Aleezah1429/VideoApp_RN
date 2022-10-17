@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">222883269433-ua3951sqjgv905b8pjrnclhlnuj3hg77.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">222883269433</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYiu1vXKYTsedS96uVTs-3tKCfXy0QwJU</string>
+    <string name="google_app_id" translatable="false">1:222883269433:android:7150bed8e3147870e6f6e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYiu1vXKYTsedS96uVTs-3tKCfXy0QwJU</string>
+    <string name="google_storage_bucket" translatable="false">video-app-025.appspot.com</string>
+    <string name="project_id" translatable="false">video-app-025</string>
+</resources>

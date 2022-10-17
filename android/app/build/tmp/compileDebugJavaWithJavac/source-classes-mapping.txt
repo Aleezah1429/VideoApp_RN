@@ -1,0 +1,14 @@
+com/videoapp/ReactNativeFlipper.java
+ com.videoapp.ReactNativeFlipper
+ com.videoapp.ReactNativeFlipper$1
+ com.videoapp.ReactNativeFlipper$2
+ com.videoapp.ReactNativeFlipper$2$1
+com/videoapp/MainApplication.java
+ com.videoapp.MainApplication
+ com.videoapp.MainApplication$1
+com/videoapp/MainActivity.java
+ com.videoapp.MainActivity
+com/videoapp/BuildConfig.java
+ com.videoapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
